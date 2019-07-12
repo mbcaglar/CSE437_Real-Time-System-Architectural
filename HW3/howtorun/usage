@@ -1,0 +1,6 @@
+		USAGE
+~ for compile end build : make
+~ for run : sudo ./output
+~ for clean : make clean
+
+
